@@ -1,7 +1,7 @@
 var Game = {
   canvas: undefined,
   ctx: undefined,
-  fps: 60,
+  fps: 60, //frames per second
   scoreBoard: undefined,
   keys: {
     TOP_KEY : 38,
